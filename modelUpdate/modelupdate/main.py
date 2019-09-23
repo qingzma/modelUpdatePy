@@ -5,7 +5,7 @@
 # Q.Ma.2@warwick.ac.uk
 
 def main():
-    print("model update")
+    print("in model update")
 
 if __name__=="__main__":
     main()
